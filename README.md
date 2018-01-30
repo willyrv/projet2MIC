@@ -10,7 +10,7 @@ I recommend to install [anaconda](https://www.anaconda.com/download/) and [jupyt
 Tutorials
 ---------
 
-1. Introduction to discrete random variables. [Link](./randomVariableSimulation.ipynb)
+1. Introduction to discrete random variables. [Link](./Notebooks/randomVariableSimulation.ipynb)
 2. Introduction to Markov Chains
 3. Introduction to Hidden Markov Models. Example: the occasionally dishonest casino
 4. Applications to a problem in population genetics
