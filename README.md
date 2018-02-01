@@ -16,4 +16,12 @@ Tutorials
 4. Applications to a problem in population genetics
 
 
+Comment installer la virtual machin sur son ordinateur
+------------------------------------------------------
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DTRPXKigqTw/0.jpg)](https://www.youtube.com/watch?v=DTRPXKigqTw)
+
+[VM](https://www.virtualbox.org/wiki/Downloads)
+[fichier OVA](https://filez.insa-toulouse.fr/wcyjed)
+
 
