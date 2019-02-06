@@ -11,9 +11,9 @@ Notebooks
 ---------
 
 1. Introduction to discrete random variables and simulation. [Link](./Notebooks/randomVariableSimulation.ipynb)
-2. Conditional probability [CondProb](./Notebooks/02-ProbabilitesConditionnelles.ipynb)
-3. Introduction to Markov Chains [MarkovChain](./Notebooks/03-ChainesDeMarkov_Exemples.ipynb)
-4. Introduction to Hidden Markov Models. Example: the occasionally dishonest casino [HMM](./Notebooks/04-Casino_malhonnête.ipynb)
+2. Conditional probability [Link](./Notebooks/02-ProbabilitesConditionnelles.ipynb)
+3. Introduction to Markov Chains [Link](./Notebooks/03-ChainesDeMarkov_Exemples.ipynb)
+4. Introduction to Hidden Markov Models. Example: the occasionally dishonest casino [Link](./Notebooks/04-Casino_malhonnête.ipynb)
 5. The Viterbi algorithm for finding hidden states
 6. Applications to a problem in population genetics
 
