@@ -14,6 +14,5 @@ Notebooks
 2. Conditional probability [Link](./Notebooks/02-ProbabilitesConditionnelles.ipynb)
 3. Introduction to Markov Chains [Link](./Notebooks/03-ChainesDeMarkov_Exemples.ipynb)
 4. Introduction to Hidden Markov Models. Example: the occasionally dishonest casino [Link](./Notebooks/04-Casino_malhonnête.ipynb)
-5. The Viterbi algorithm for finding hidden states
+5. The Viterbi algorithm for finding hidden states [Link](./Notebooks/05-Viterbi.ipynb)
 6. Applications to a problem in population genetics
-
